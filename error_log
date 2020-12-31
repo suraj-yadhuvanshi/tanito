@@ -1,0 +1,2 @@
+[21-Apr-2020 16:25:40 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/sinepanel/public_html/application/config/config.php on line 26
+[22-Apr-2020 01:29:13 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/sinepanel/public_html/application/config/config.php on line 26
